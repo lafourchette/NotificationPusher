@@ -1,5 +1,5 @@
 {
-    "name": "sly/notification-pusher",
+    "name": "lafourchette/notification-pusher",
     "description": "Standalone PHP library for easy devices notifications push.",
     "keywords": ["apple", "iphone", "apns", "android", "gcm", "notification", "message", "push", "pusher"],
     "homepage": "https://github.com/Ph3nol/NotificationPusher",
@@ -35,5 +35,8 @@
         "psr-0": {
             "Sly": "src/"
         }
+    }
+    "replace": {
+        "sly/notification-pusher": "~2.2.*"
     }
 }
