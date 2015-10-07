@@ -35,7 +35,7 @@
         "psr-0": {
             "Sly": "src/"
         }
-    }
+    },
     "replace": {
         "sly/notification-pusher": "~2.2.*"
     }
