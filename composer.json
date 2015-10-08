@@ -37,6 +37,6 @@
         }
     },
     "replace": {
-        "sly/notification-pusher": "~2.2.*"
+        "sly/notification-pusher": "~2.2"
     }
 }
